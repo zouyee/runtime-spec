@@ -1,6 +1,4 @@
-# Open Container Initiative Runtime Specification
-
-[![GitHub Actions status](https://github.com/opencontainers/runtime-spec/workflows/build/badge.svg)](https://github.com/opencontainers/runtime-spec/actions?query=workflow%3Abuild)
+# Open Container Initiative Runtime Specification With Ziglang
 
 The [Open Container Initiative][oci] develops specifications for standards on Operating System process and application containers.
 
